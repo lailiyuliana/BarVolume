@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bar Volume</string>
+    <string name="result">Hasil</string>
+    <string name="height">Tinggi</string>
+    <string name="width">Lebar</string>
+    <string name="length">Panjang</string>
+</resources>
